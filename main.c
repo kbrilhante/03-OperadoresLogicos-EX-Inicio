@@ -23,7 +23,7 @@
 int main(int argc, char **argv)
 {
 	printf("");
-    getchar();
+	getchar();
 	return 0;
 }
 #endif
@@ -37,7 +37,7 @@ int main(int argc, char **argv)
 int main(int argc, char **argv)
 {
 	printf("");
-    getchar();
+	getchar();
 	return 0;
 }
 #endif
@@ -51,7 +51,7 @@ int main(int argc, char **argv)
 int main(int argc, char **argv)
 {
 	printf("");
-    getchar();
+	getchar();
 	return 0;
 }
 #endif
