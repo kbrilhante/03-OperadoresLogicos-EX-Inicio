@@ -15,8 +15,7 @@
 	- maiores de 18 anos: R$ 50,00
 	* especial meia idade
 	- entre 50 e 60 anos: R$ 40,00
-	‌
-
+	
 	Foto especial no parque:
 	+ R$ 9,99 no preço do ingresso
 */
