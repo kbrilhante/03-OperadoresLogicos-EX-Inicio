@@ -1,7 +1,7 @@
 #include <stdio.h>
 #define ex00
 
-/*** EXERCICIOS ASSUNTO ***/
+/*** EXERCICIOS OPERADORES LÓGICOS ***/
 
 #ifdef ex01
 /*
