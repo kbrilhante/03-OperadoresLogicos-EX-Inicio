@@ -18,7 +18,7 @@
 	‌
 
 	Foto especial no parque:
-	+ R$ 5,00 no preço do ingresso
+	+ R$ 9,99 no preço do ingresso
 */
 int main(int argc, char **argv)
 {
